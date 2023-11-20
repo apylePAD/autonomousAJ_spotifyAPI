@@ -15,6 +15,6 @@ class Artist_Data:
         self.save_artist_data(df_artists)
 
     def save_artist_data(self, df_artists):
-        df_artists.to_csv(f"{global_config.BASE_PATH}/data_files/written_files/artists.csv", index=False)
+        df_artists.to_csv(f"{global_config.BASE_PATH}/data_files/written_files/artist_data/artists_{self.artist_name}.csv", index=False)
         print(df_artists)
 
