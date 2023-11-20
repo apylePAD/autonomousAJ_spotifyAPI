@@ -34,5 +34,3 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 ## License
 By contributing, you agree that your contributions will be licensed under its MIT License.
 
-## References
-This document was adapted from [Brian A. Danielak](http://bdanielak.com)'s contribution guidelines template.
